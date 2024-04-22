@@ -13,8 +13,6 @@ header, section {
 h1, h2, h4 {
     margin-bottom: 10px; 
     font-family: 'Times New Roman', Times, sans-serif;
-    
-    
 
 }
 
@@ -46,4 +44,6 @@ section:not(:first-child) {
     text-align: center;
     margin: .2em auto  
 }
-
+.center,li{
+    list-style-type: square; 
+}
