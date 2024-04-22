@@ -1,0 +1,48 @@
+body {
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+header, section {
+    text-align: center;
+    font-size: 15px;
+}
+
+h1, h2, h4 {
+    margin-bottom: 10px; 
+    font-family: 'Times New Roman', Times, sans-serif;
+    
+
+}
+
+p{
+   text-align: left;
+   margin: .2em auto
+   
+}
+
+.top{
+    text-align: center;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+    text-align: left;
+    
+}
+
+section:not(:first-child) {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+.move{
+    text-align: center;
+    margin: .2em auto  
+}
+
